@@ -26,17 +26,3 @@ document.querySelector('#submitBtn').addEventListener('click', function () {
     }
     showresult();
 });
-
-
-
-
-
-
-
-
-
-
-
-
-
-
